@@ -18,3 +18,6 @@ Some purpose ....
 Deployment ....
 
 ## How to Contribute
+
+### Copyright
+Git.Training.
