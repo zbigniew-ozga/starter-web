@@ -10,5 +10,11 @@ of the Git repository and various commands
 using a web project.
 
 ## Purpose
+
+Some purpose ....
+
 ## Deployment
+
+Deployment ....
+
 ## How to Contribute
