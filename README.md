@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for
-showing how to use Git
+showing how to use Git. Adding a line for rebase example
 
 ## Introduction
 
