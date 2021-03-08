@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for
-showing how to use Git. Adding a line for rebase example
+showing how to use Git. Adding a line for rebase example. MORE changed from myfeature branch too.
 
 ## Introduction
 
